@@ -1,24 +1,19 @@
 
 # Site settings
-title: Project-Gaia
-email:
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/JekyllTheme-ProjectGaia" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: Droll Blog
+email: noonmonster10@gmail.com
+description: Java, Blog, Git, Spring 
+url: drollh.github.io
 
 # User setting
-owner:
-email:
+owner: Droll
+email: noonmonster10@gmail.com
 facebook_username:
 twitter_username:
-github_username:
+github_username: drollh
 address:
   - line:
   - line:
-  # Feel free to add more lines here 
 telephone:
 copyright:
 
